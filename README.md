@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shubhampanchal
-- 👀 I’m interested in data sceinec and data engineering
+- 👀 I’m interested in data science and data engineering
 - 🌱 I’m currently learning data science, data engineering, AI and GenAI
 - 💞️ I’m looking to collaborate on data science, data engineering, AI and GenAI
 - 📫 How to reach me shubham.panchal@ascentt.com
